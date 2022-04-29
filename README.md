@@ -1,5 +1,8 @@
 # portifolio
-Portifolio do desenvolvedor
+
+Portfolio construido durante a semana de programação
+
+Portfolio do desenvolvedor
 
 ## Tarefas
 
